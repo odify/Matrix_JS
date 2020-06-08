@@ -1,4 +1,4 @@
-// Probs with vanilla JS and experimental ways of mutate()
+// Props with vanilla JS and experimental ways of mutate()
 
 function r(from, to) {
     return ~~(Math.random() * (to - from + 1) + from);
